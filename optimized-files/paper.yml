@@ -9,10 +9,11 @@ world-settings:
     non-player-arrow-despawn-rate: 59
     creative-arrow-despawn-rate: 59
     prevent-moving-into-unloaded-chunks: true
+    disable-chest-cat-detection: true
     use-faster-eigencraft-redstone: true
     per-player-mob-spawns: true
     armor-stands-tick: true
-    disable-chest-cat-detection: true
+    fix-climbing-bypassing-cramming-rule: true
     viewdistances:
       no-tick-view-distance: 8
     despawn-ranges:
