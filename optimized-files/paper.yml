@@ -7,7 +7,7 @@ world-settings:
 		mob-spawner-tick-rate: 2
 		grass-spread-tick-rate: 4
 		non-player-arrow-despawn-rate: 60
-		creative-arrow-despawn-rate: 60
+		creative-arrow-despawn-rate: 59
 		prevent-moving-into-unloaded-chunks: true
 		use-faster-eigencraft-redstone: true
 		per-player-mob-spawns: true
