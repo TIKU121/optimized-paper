@@ -9,20 +9,20 @@ world-settings:
     merge-radius:
     exp: 6.0
     item: 4.0
-entity-activation-range:
-  animals: 16
-  monsters: 24
-  raiders: 48
-  misc: 8
-  water: 12
-  villagers: 16
-  tick-inactive-villagers: false
-  wake-up-inactive:
-    villagers-for: 20
-    flying-monsters-for: 60
-    villagers-max-per-tick: 1
-    animals-for: 40
-    monsters-max-per-tick: 4
-    flying-monsters-max-per-tick: 1
-    animals-max-per-tick: 2
-    wake-up-inactive.monsters-for: 60
+  entity-activation-range:
+    animals: 16
+    monsters: 24
+    raiders: 48
+    misc: 8
+    water: 12
+    villagers: 16
+    tick-inactive-villagers: false
+    wake-up-inactive:
+      villagers-for: 20
+      flying-monsters-for: 60
+      villagers-max-per-tick: 1
+      animals-for: 40
+      monsters-max-per-tick: 4
+      flying-monsters-max-per-tick: 1
+      animals-max-per-tick: 2
+      wake-up-inactive.monsters-for: 60
