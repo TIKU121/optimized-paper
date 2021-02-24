@@ -9,6 +9,9 @@ world-settings:
     merge-radius:
     exp: 6.0
     item: 4.0
+    merge-radius:
+      exp: 6.0
+      item: 4.0
   entity-activation-range:
     animals: 16
     monsters: 24
