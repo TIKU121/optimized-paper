@@ -9,5 +9,5 @@ chunk-gc:
 ticks-per:
   monster-spawns: 3
   water-spawns: 4
-  water-ambient: 8
+  water-ambient: 5
   ambient: 8
