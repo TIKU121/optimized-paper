@@ -8,7 +8,7 @@
     "name": "Optimized Paper",
     "author": "samiazizi@protonmail.com",
     "description": "Optimized Paper is a Pterodactyl Panel egg, which is specialized to make it possible to run Minecraft servers in low RAM\/CPU environments, and also to overall make it as optimized without the user having to do anything.",
-    "features": [eula],
+    "features": ["eula"],
     "images": [
         "quay.io\/pterodactyl\/core:java-11",
         "quay.io\/pterodactyl\/core:java"
