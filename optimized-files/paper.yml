@@ -9,21 +9,22 @@ world-settings:
     non-player-arrow-despawn-rate: 59
     creative-arrow-despawn-rate: 59
     prevent-moving-into-unloaded-chunks: true
-    disable-chest-cat-detection: true
     use-faster-eigencraft-redstone: true
     per-player-mob-spawns: true
+    armor-stands-do-collision-entity-lookups: false
     armor-stands-tick: true
     fix-climbing-bypassing-cramming-rule: true
     viewdistances:
       no-tick-view-distance: 8
+    hopper:
+      disable-move-event: true
     despawn-ranges:
       soft: 28
       hard: 96
-    hopper:
-      disable-move-event: true
     game-mechanics:
-      alt-item-despawn-rate:
-        enabled: true
+      disable-chest-cat-detection: true
+    alt-item-despawn-rate:
+      enabled: true
         items:
           COBBLESTONE: 300
           NETHERRACK: 300
