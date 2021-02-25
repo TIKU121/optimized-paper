@@ -28,3 +28,8 @@ world-settings:
       items:
         COBBLESTONE: 300
         NETHERRACK: 300
+    entity-per-chunk-save-limit:
+      experience_orb: 16
+      snowball: 16
+      ender_pearl: 16
+      arrow: 16
