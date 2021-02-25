@@ -21,6 +21,7 @@ world-settings:
         villagers-for: 20
         flying-monsters-for: 60
         villagers-max-per-tick: 1
+        monsters-for: 60
         animals-for: 40
         monsters-max-per-tick: 4
         flying-monsters-max-per-tick: 1
