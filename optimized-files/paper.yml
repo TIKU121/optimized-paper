@@ -25,6 +25,6 @@ world-settings:
       disable-chest-cat-detection: true
     alt-item-despawn-rate:
       enabled: true
-        items:
-          COBBLESTONE: 300
-          NETHERRACK: 300
+      items:
+        COBBLESTONE: 300
+        NETHERRACK: 300
