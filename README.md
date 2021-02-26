@@ -4,7 +4,7 @@
 
 ## Installation
 
-Please follow this wonderful [guide](https://github.com/parkervcp/eggs#how-to-import-an-egg), which also works on most other Pterodactyl egg installations. **If you are new to the Pterodactyl Panel, I strongly recommend the newest version of the panel as it's easier to install and modify eggs on it.**
+**Please download the egg, by getting the raw version of the** ```egg-optimized-paper.json``` **file and then right clicking and choosing 'Save File As'.** You can install the egg to your panel, by following this wonderful [guide](https://github.com/parkervcp/eggs#how-to-import-an-egg).
 
 ## Contributing
 
