@@ -16,4 +16,4 @@
 ⚠️ **Please make sure that all updates aren't game breaking and actually work.**
 
 ## License
-[GNU General Public License v3](https://choosealicense.com/licenses/gpl-3.0/)
+[GNU General Public License v3](https://github.com/TIKU121/optimized-paper/blob/main/LICENSE)
