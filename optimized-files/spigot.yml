@@ -2,7 +2,7 @@ settings:
   save-user-cache-on-stop-only: true
 world-settings:
   default:
-    mob-spawn-range: 5
+    mob-spawn-range: 3
     arrow-despawn-rate: 300
     max-entity-collisions: 2
     view-distance: 6
