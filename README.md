@@ -1,6 +1,5 @@
 # Optimized Paper Egg
 
-[![](https://img.shields.io/discord/814904716005081119.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/CtQqm62Qjh)
 [![](https://img.shields.io/static/v1?label=&message=BEG%20BUTTON&color=blue&style=for-the-badge&logo=paypal)](https://paypal.me/0sami)
 
 **Optimized Paper is a [Pterodactyl Panel](https://pterodactyl.io/) egg, which is specialized to make it possible to run Minecraft servers in low RAM/CPU environments, and also to overall make it as optimized without the user having to do anything.**
