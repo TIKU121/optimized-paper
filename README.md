@@ -1,18 +1,16 @@
-# Optimized Paper Egg
+# Optimized Paper
 
-[![](https://img.shields.io/static/v1?label=&message=BEG%20BUTTON&color=blue&style=for-the-badge&logo=paypal)](https://paypal.me/0sami)
+[![](https://img.shields.io/static/v1?label=&message=DONATE&color=blue&style=for-the-badge&logo=paypal)](https://paypal.me/0sami)
 
-**Optimized Paper is a [Pterodactyl Panel](https://pterodactyl.io/) egg, which is specialized to make it possible to run Minecraft servers in low RAM/CPU environments, and also to overall make it as optimized without the user having to do anything.**
+Optimized Paper is a [Pterodactyl Paper](https://pterodactyl.io) egg, and it's made to optimize a Minecraft server running on [PaperMC](https://papermc.io) to be fast as possible without you needing to do anything.
 
 ## Installation
 
-**Please download the egg, by getting the raw version of the** ```egg-optimized-paper.json``` **file and then right clicking and choosing 'Save File As'.** You can install the egg to your panel, by following this wonderful [guide](https://github.com/parkervcp/eggs#how-to-import-an-egg).
+**This is easy,** just [download](https://github.com/TIKU121/optimized-paper/releases) the egg and navigate to the `Nests` section of your admin panel and from there click the **green Import Egg** button, upload the egg and then choose the `Minecraft` nest. **You must restart your daemon, if you are using v0.7.**
 
 ## Contributing
 
-**Pull requests are welcome.** For major changes, please open an issue first so we can discuss what you would like to change.
-
-⚠️ **Please make sure that all updates aren't game breaking and actually work.**
+**Help make Minecraft servers run faster and better for everyone.** Pull requests are welcome as long as the changes are **not game breaking and actually work.**
 
 ## License
 [GNU General Public License v3](https://github.com/TIKU121/optimized-paper/blob/main/LICENSE)
