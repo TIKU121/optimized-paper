@@ -1,7 +1,5 @@
 # Optimized Paper
 
-[![](https://img.shields.io/static/v1?label=&message=DONATE&color=blue&style=for-the-badge&logo=paypal)](https://paypal.me/0sami)
-
 Optimized Paper is a [Pterodactyl Paper](https://pterodactyl.io) egg, and it's made to optimize a Minecraft server running on [PaperMC](https://papermc.io) to be fast as possible without you needing to do anything.
 
 ## Installation
