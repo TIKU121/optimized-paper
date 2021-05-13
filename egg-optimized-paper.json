@@ -10,8 +10,8 @@
     "description": "Optimized Paper is a Pterodactyl Paper egg, and it's made to optimize a Minecraft server running on PaperMC to be fast as possible without you needing to do anything.",
     "features": ["eula"],
     "images": [
-        "quay.io\/pterodactyl\/core:java-11",
-        "quay.io\/pterodactyl\/core:java"
+        "quay.io/softwarenoob/pterodactyl-images:java-16-openj9",
+        "quay.io/softwarenoob/pterodactyl-images:java-8-openj9"
     ],
     "file_denylist": "",
     "startup": "java -Xms128M -Xmx{{SERVER_MEMORY}}M -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https:\/\/mcflags.emc.gs\/ -Daikars.new.flags=true -jar {{SERVER_JARFILE}} nogui",
